@@ -4,7 +4,7 @@ const Skills = () => {
     return (
         <div id='skills' className='text-slate-400 pb-5 md:grid md:gap-4 bg-home1 bg-center bg-cover bg-no-repeat w-[100%] md:w-[100%] md:h-[200%]'>
             <h1 className='text-4xl font-serif text-center pt-5 text-slate-300'>SKILLS</h1>
-            <div className='md:flex pl-12 md:pl-14 md:gap-10 md:pt-5 justify-center'>
+            <div className='md:flex pl-14 md:pl-14 md:gap-10 md:pt-5 justify-center'>
                 <div className="card  w-56 shadow-xl">
                     <figure className="px-10 pt-10">
                         <img
@@ -39,7 +39,7 @@ const Skills = () => {
                     </div>
                 </div>
             </div>
-            <div className='md:flex pl-12 md:pl-14 md:gap-10 md:pt-5 justify-center'>
+            <div className='md:flex pl-14 md:pl-14 md:gap-10 md:pt-5 justify-center'>
                 <div className="card  w-56 shadow-xl">
                     <figure className="px-10 pt-10">
                         <img
